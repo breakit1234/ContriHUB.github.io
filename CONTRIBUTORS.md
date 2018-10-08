@@ -13,10 +13,20 @@
 - Bio: CSE @MNNIT'19 | @hohos | I have an Idea :smiley:
 - Github: [dbads](https://github.com/dbads)
 
+### Name: [Ashwini  Ojha](https://github.com/ashwini571)
+- Place: Allahbad, Uttar Pradesh
+- Bio: A Web Developer,A day-dreamer;Personality-type:NULL
+- Github: [ashwini571](https://github.com/ashwini571)
+
 ### Name: [Om Raj](https://github.com/breakit1234)
 - Place: Allahabad, UP, India
 - Bio: IT Ungergrad @MNNIT'20 && Loves to learn new stuffs.
 - GitHub: [breakit1234](https://github.com/breakit1234)
+
+### Name: [Kunal Sevkani]
+- Place: Jaipur, Rajasthan
+- Bio: Android Developer and Gaming Enthusiast
+- Github: [kunalmnnit](https://github.com/kunalmnnit)
 
 #### Name: [Rohit Raj Anand](https://github.com/rht6226)
 - Place: Allahabad, UP, India
@@ -57,3 +67,8 @@
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: Java, Linux, Networking is Life | :pizza: is love
 - GitHub: [surbhitawasthi](https://github.com/surbhitawasthi)
+
+#### Name: [Milan Bavishi](https://github.com/jarvisdev)
+- Place: Bhavnagar, Gujarat, India
+- Bio: Web Development, Competitive Coding, Music | Dhokla and Fafda are love :yum: :grin:
+- GitHub: [jarvisdev](https://github.com/jarvisdev)
